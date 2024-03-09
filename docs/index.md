@@ -2,7 +2,7 @@
   <meta charset="UTF-8">
   <meta name="description" content="AMD ROCm documentation">
   <meta name="keywords" content="documentation, guides, installation, compatibility, support,
-  reference, ROCm, AMD">
+  reference, ROCm, AMD, Amit-copy-index-change">
 </head>
 
 # AMD ROCm™ documentation
